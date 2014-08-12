@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="jctm_role">
+        <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/conf"/>
+        <property name="context-root" value="jctm_role"/>
+        <property name="java-output-path" value="/jctm_role/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
